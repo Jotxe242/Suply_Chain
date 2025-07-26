@@ -25,3 +25,4 @@ Where:
 
 Therefore, $C_{x, y}$ is used as the **weight** of the edge from **x** to **y**. Finally, the Dijkstra algorithm is used to compute the optimal route, which is then plotted on a world map.
 
+![Example](map.png)
